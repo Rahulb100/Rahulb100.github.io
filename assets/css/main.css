@@ -132,7 +132,7 @@ input, select, textarea {
 		color:#FFFFFF;
 	}
 		h2.alt {
-			color:#FFFFFF;
+		     color:#FFFFFF;
 		}
 
 			h2.alt strong {
@@ -147,6 +147,9 @@ input, select, textarea {
                h2.alt3{
 		     color:#FFFFFF;   
 	       }
+              h2.alt4{
+		    color:#FFFFFF; 
+	      }
 	h3 {
 		font-size: 1.5em;
 	}
