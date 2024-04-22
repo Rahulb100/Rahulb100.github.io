@@ -128,13 +128,15 @@ input, select, textarea {
 		font-size: 2em;
 		letter-spacing: -1px;
 	}
-
+        h2.at{
+		color:#FF0000;
+	}
 		h2.alt {
-			color: #f9f5f5;
+			color:#FFFFFF;
 		}
 
 			h2.alt strong {
-				color: #f9f6f6;
+				color:#FFFFFF;
 			}
                h2.alt1{
 		       color:#FFFFFF;
