@@ -140,7 +140,9 @@ input, select, textarea {
                h2.alt1{
 		       color:#FFFFFF;
 	       }
-
+               p.alt2{
+		     color:#FFFFFF;  
+	       }
 	h3 {
 		font-size: 1.5em;
 	}
